@@ -1,0 +1,26 @@
+{
+  "colors": {
+    "primary": "#0066CC",
+    "secondary": "#00A8E8",
+    "accent": "#FF6B35",
+    "dark": "#003D7A",
+    "light": "#E6F2FF"
+  },
+  "fonts": {
+    "heading": "Montserrat",
+    "body": "Open Sans"
+  },
+  "layout": "hero-services-contact",
+  "components": [
+    "hero",
+    "services",
+    "about",
+    "contact",
+    "footer"
+  ],
+  "images": [
+    "Professional plumber in uniform fixing pipe, modern kitchen, #0066CC accent lighting",
+    "Emergency plumbing service van, branded with Mike Plumbing, city background",
+    "High-tech leak detection equipment, professional setting, #0066CC highlights"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "businessName": "Mike Plumbing",
+  "category": "plumbing",
+  "location": "South Africa",
+  "services": [
+    "Emergency Repairs",
+    "Leak Detection",
+    "Pipe Installation",
+    "Drain Cleaning",
+    "Geyser Services"
+  ],
+  "brandColors": {
+    "primary": "#0066CC",
+    "secondary": "#00A8E8",
+    "accent": "#FF6B35",
+    "dark": "#003D7A",
+    "light": "#E6F2FF"
+  },
+  "tagline": "Flowing Excellence",
+  "researchDate": "2026-03-30T17:09:54.405Z"
+}
